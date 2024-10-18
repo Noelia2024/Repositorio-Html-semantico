@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    margin: 10px;
+    border: 5px solid black;
+}
+
+.icon-heart before{
+    content: "\e9da";
+  }
+
